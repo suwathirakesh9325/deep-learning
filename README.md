@@ -187,19 +187,4 @@ Explainable AI techniques
 
 The result is a highly accurate, interpretable, and production-ready forecasting model.
 
-🧾 One-Line Summary
-
-An optimized LSTM-based multivariate time series forecasting system with Bayesian hyperparameter tuning and integrated explainability.
-
-📬 Future Enhancements
-
-GRU or Transformer comparison
-
-Probabilistic forecasting
-
-Real-world datasets
-
-Temporal heatmap visualizations
-
-Model deployment
 
